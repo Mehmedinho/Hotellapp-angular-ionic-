@@ -1,0 +1,27 @@
+/* Empty. Add your own CSS if you like */
+
+.logo{
+    width: 20%;
+  }
+
+  .BookDiv{
+      text-align: center;
+  }
+
+  .error {
+      color: red;
+      }
+      input.ng-invalid-email {
+      color: red;
+      }
+      input.ng-valid-email {
+      color: green;
+      }
+      .branding{
+        width: 100% ; 
+        height: auto;
+      }
+
+      
+
+  

@@ -1,0 +1,46 @@
+[
+  {
+    "name":"Enkelrum för 500kr/natt",
+    "shortname": "Enkelrum",
+    "price": "500",
+    "reknown": "Njut i en härlig enkelrummare",
+    "bio":"Njut i en härlig enkelrummare",
+    "max": "1"
+  },
+
+  {
+    "name":"Dubbelrum för 700kr/natt",
+    "shortname": "Dubbelrum",
+    "price": "700",
+    "reknown": " En mycket fin dubbelrummare",
+    "bio":"",
+    "max": "2"
+  },
+  {
+    "name":"Familjerum för 900kr/natt",
+    "shortname": "Familjerum",
+    "price": "900",
+    "reknown": "Njut i en härlig familjerummare",
+    "bio":"Njut i en härlig familjerummare",
+    "max": "5"
+  },
+  {
+    "name":"Sviter med salong för 1500kr/natt",
+    "shortname": "Sviter",
+    "price": "1500",
+    "reknown": "En lyxig sviter med en salong",
+    "bio":"En lyxig sviter med en salong",
+    "max": "3"
+  },
+  {
+    "name":"Överlägsetrum för 2000kr/natt",
+    "shortname": "Överlägsetrum",
+    "price": "2000",
+    "reknown": "En härlig och inspererande överlägsetrum över 60 kvm",
+    "bio":"En härlig och inspererande överlägsetrum över 60 kvm",
+    "max": "2"
+  }
+
+]
+
+
